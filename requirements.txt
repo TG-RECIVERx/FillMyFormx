@@ -1,2 +1,2 @@
 pytelegrambotapi==4.22.1
-requests==2.32.3
+playwright==1.47.0
