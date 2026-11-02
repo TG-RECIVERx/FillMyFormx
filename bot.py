@@ -3,7 +3,7 @@ import time
 import telebot
 from playwright.sync_api import sync_playwright
 
-TOKEN = os.getenv("BOT_TOKEN", "9270668766:AAF32A06OavZw1djq-q5KObKk4oLSDrzjow")
+TOKEN = os.getenv("BOT_TOKEN", "9270668766:AAHiChEecKzAFovrvUeNUyFNwR0nBuVkk6k")
 bot = telebot.TeleBot(TOKEN)
 
 user_state = {}
